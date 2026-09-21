@@ -1,83 +1,56 @@
-#  Olá, eu sou Matheus Carstens de Oliveira
+# Olá, eu sou Matheus Carstens de Oliveira 
 
- Estudante de Ciência da Computação no IFPR  
- Suporte Técnico na Celepar  
- Entusiasta de tecnologia, automação e infraestrutura  
-
----
-
-## Sobre mim
-
-Sou estudante de Ciência da Computação e atualmente atuo como Suporte Técnico na Celepar, onde desenvolvo experiência prática com resolução de problemas, suporte a usuários e análise de sistemas.
-
-Tenho forte interesse em **Cibersegurança**, **Redes** e **Computação em Nuvem**, aliando minha afinidade com **Matemática** para explorar áreas orientadas a dados como **Inteligência Artificial**, **Machine Learning** e **Big Data**. Gosto de utilizar essa fundamentação lógica na modelagem de algoritmos e na resolução de desafios analíticos complexos.
-
-Também desenvolvo **automações em Python utilizando Selenium**, criando scripts para otimização de tarefas e ganho de produtividade.
-
-Sou movido por aprendizado contínuo e tenho como foco transformar teoria rigorosa em prática por meio de projetos reais.
+Estudante de Ciência da Computação no **IFPR**  
+Estagiário de Suporte Técnico na **Celepar**  
+Foco em **Cibersegurança**, **Redes de Computadores** e **Computação em Nuvem**
 
 ---
 
-##  Linguagens de Programação
+##  Sobre mim
 
-###  Maior domínio
-- C++
-- Python
-- C
+Sou graduando em Ciência da Computação no Instituto Federal do Paraná e atualmente atuo como Estagiário de Suporte Técnico na Celepar, lidando diariamente com triagem, diagnóstico e resolução de falhas em sistemas e redes.
 
-###  Conhecimento intermediário
-- Java
-- JavaScript
-- C#
+Minha trajetória técnica é voltada para **Cibersegurança**, **Infraestrutura de Redes** e **Sistemas Operacionais**, sempre aplicando uma base sólida em **Matemática** e **Algoritmos** para solucionar problemas analíticos complexos. Também exploro o uso de **Inteligência Artificial**, **Machine Learning** e **Dados** aplicados à observabilidade e segurança da informação.
 
 ---
 
-##  Tecnologias e Ferramentas
+##  Tecnologias e Habilidades
 
-* **Segurança e Redes:** IPTables, Wi-Fi Protocols (WPA2/WPA3), Firewall, NAT, DHCP, DNS, Cisco Packet Tracer
-* **Algoritmos e Estruturas de Dados:** Árvores B, Algoritmos de Compressão (Huffman, LZW), Otimização e Análise Assintótica
-* **Dados e IA:** OpenCV (Visão Computacional / Haar Cascade), SQLite, Modelação Matemática
-* **Automação e DevOps:** Selenium, n8n, Webhooks, Linux, Monitorização de Sistemas
-* **Mobile e Web:** React Native, React, Expo, Node.js, Kotlin
-
----
-
-## Projetos Acadêmicos e Pessoais
-
-* **Árvore B e Compressão de Dados do Zero**
-  Implementação em Python de Árvore B com persistência em disco e algoritmos de compressão Huffman e LZW sem uso de bibliotecas externas, focando em análise de desempenho e testes de carga.
-
-* **WiSafe – Auditoria de Segurança Wi-Fi**
-  Aplicação móvel em React Native com módulo nativo em Kotlin (Android) para varredura de redes próximas e classificação de risco baseada no protocolo de segurança e criptografia da conexão.
-
-* **Infraestrutura de Rede com Aplicação Web**
-  Implementação de rede segmentada com firewall, NAT, DHCP, DNS, servidor web e monitoramento de tráfego.
-
-* **Automação de Alertas de Logs com n8n**
-  Pipeline de observabilidade em tempo real com Webhooks e Telegram para redução de MTTR em incidentes de infraestrutura.
-
-* **Deteção de Objetos com OpenCV**
-  Aplicação de visão computacional em Python utilizando classificadores Haar Cascade para localização e reconhecimento de objetos em tempo real.
-
-* **Simulação IoT de Segurança e Redes**
-  Projeto de rede com dispositivos inteligentes no Cisco Packet Tracer para deteção de incidentes e automação de resposta a eventos de incêndio.
-
-* **Scripts de Automação com Python + Selenium**
-  Automação de processos repetitivos, extração de dados e interação automatizada com interfaces web.
----
-
-## Objetivo
-
-Busco oportunidades para atuar nas áreas de **Cibersegurança**, **Computação em Nuvem** e **Infraestrutura/Redes**, aplicando fundamentos de **Matemática** e técnicas de **Dados/IA** para construir ambientes resilientes, automatizados e escaláveis.
+* **Linguagens:** Python, C/C++, Java, SQL, TypeScript, JavaScript, Kotlin
+* **Redes e Infraestrutura:** Linux (Debian/Ubuntu), IPTables, Firewall, NAT, DHCP, DNS, TCP/IP, Cisco Packet Tracer
+* **Algoritmos e Estruturas de Dados:** Árvores B, Algoritmos de Compressão (Huffman, LZW), Análise de Complexidade
+* **Automação, Dados e DevOps:** n8n, Webhooks, Telegram Bot API, Selenium, Netdata, OpenCV, Git/GitHub
 
 ---
 
-##  Contato
+##  Principais Projetos
 
- Paraná – Brasil  
- LinkedIn: https://www.linkedin.com/in/matheus-carstens-811677301/  
- Email: matheuscarstens11@gmail.com
+* **[Árvore B e Algoritmos de Compressão do Zero](https://github.com/mathcarstens/btree-compression-from-scratch)**  
+  Implementação em Python de Árvore B para chaves de texto e serialização persistente em disco, além de compressores Huffman e LZW desenvolvidos do zero sem bibliotecas prontas.
+
+* **[WiSafe – Análise de Segurança de Redes Wi-Fi](https://github.com/mathcarstens/WiSafe-Mobile)**  
+  Aplicação móvel (React Native) com módulo nativo em Kotlin integrado à API Android (`WifiManager`) para varredura real de APs e classificação de risco por cifra de segurança (WPA2/WPA3/WEP/Open).
+
+* **[Infraestrutura de Rede e Aplicação Web](https://github.com/mathcarstens/Linux-Network-Infrastructure)**  
+  Ambiente de rede segmentado em Linux com firewall restritivo em IPTables, NAT, DNS, DHCP, servidor Apache2 e observabilidade de tráfego com Netdata.
+
+* **[Automação de Alertas e Observabilidade de Logs](https://github.com/mathcarstens/log-alert-automation-n8n)**  
+  Pipeline orientado a eventos com n8n e Webhook para triagem de logs em tempo real e disparo de notificações instantâneas no Telegram para redução de MTTR.
+
+* **[Detecção de Objetos com OpenCV](https://github.com/mathcarstens/deteccao-objetos-opencv)**  
+  Aplicação em Python utilizando visão computacional e classificadores Haar Cascade para localização e reconhecimento de padrões em tempo real.
+
 
 ---
 
- Obrigado por visitar meu perfil!
+##  Objetivo
+
+Busco oportunidades de estágio e desenvolvimento nas áreas de **Cibersegurança**, **Redes de Computadores** e **Computação em Nuvem / Infraestrutura**, aliando automação e algoritmos para construir sistemas resilientes e seguros.
+
+---
+
+##  Conecte-se comigo
+
+* **LinkedIn:** [linkedin.com/in/matheus-carstens-811677301](https://www.linkedin.com/in/matheus-carstens-811677301/)
+* **E-mail:** [matheuscarstens11@gmail.com](mailto:matheuscarstens11@gmail.com)
+* **Localização:** Curitiba, Paraná – Brasil
