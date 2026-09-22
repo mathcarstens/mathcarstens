@@ -16,7 +16,7 @@ Minha trajetória técnica é voltada para **Cibersegurança**, **Infraestrutura
 
 ##  Tecnologias e Habilidades
 
-* **Linguagens:** Python, C/C++, Java, SQL, TypeScript, JavaScript, Kotlin
+* **Linguagens:** Python, C/C++, SQL, TypeScript, JavaScript, Java, Kotlin
 * **Redes e Infraestrutura:** Linux (Debian/Ubuntu), IPTables, Firewall, NAT, DHCP, DNS, TCP/IP, Cisco Packet Tracer
 * **Algoritmos e Estruturas de Dados:** Árvores B, Algoritmos de Compressão (Huffman, LZW), Análise de Complexidade
 * **Automação, Dados e DevOps:** n8n, Webhooks, Telegram Bot API, Selenium, Netdata, OpenCV, Git/GitHub
