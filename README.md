@@ -56,5 +56,4 @@ Busco oportunidades de estágio e desenvolvimento nas áreas de **Ciberseguranç
 ##  Conecte-se comigo
 
 * **LinkedIn:** [linkedin.com/in/matheus-carstens-811677301](https://www.linkedin.com/in/matheus-carstens-811677301/)
-* **E-mail:** [matheuscarstens11@gmail.com](mailto:matheuscarstens11@gmail.com)
 * **Localização:** Curitiba, Paraná – Brasil
