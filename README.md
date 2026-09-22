@@ -39,6 +39,10 @@ Minha trajetória técnica é voltada para **Cibersegurança**, **Infraestrutura
 
 * **[Detecção de Objetos com OpenCV](https://github.com/mathcarstens/deteccao-objetos-opencv)**  
   Aplicação em Python utilizando visão computacional e classificadores Haar Cascade para localização e reconhecimento de padrões em tempo real.
+  
+* **[Cloud Security Lab – DVWA Brute-Force Analysis](https://github.com/mathcarstens/Cloud-Security-Lab---DVWA-Brute-Force-Analysis)**  
+  Laboratório de segurança web containerizado com Docker e DVWA, desenvolvido para analisar vulnerabilidades de autenticação e ataques de força bruta em um ambiente controlado, utilizando Burp Suite e Hydra para inspeção e testes das requisições HTTP.
+  
 
 
 ---
